@@ -14,6 +14,7 @@ Tinpet is an application in order to facilitate the adoption of dogs and cats.
   - [Knexjs](http://knexjs.org/)
   - [ESlint](https://eslint.org/)
   - [Sucrase](https://www.npmjs.com/package/sucrase)
+  - [Docker](https://www.docker.com)
   - [Celebrate](https://www.npmjs.com/package/celebrate)
 
 ### Installation
